@@ -12,7 +12,7 @@ Class dismissed in: <br>
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jun 24, 2018 16:00:00").getTime();
+var countDownDate = new Date("Jun 24, 2018 11:00:00").getTime();
 var countDownDate2 = new Date("Jun 24, 2018 18:00:00").getTime();
 
 // Update the count down every 1 second
