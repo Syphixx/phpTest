@@ -4,7 +4,7 @@ echo "Hello world!<br>";
 echo "I'm about to learn PHP!<br>";
 echo "Nickyyyyy";
 
-
+?>
 <p id="demo"></p>
 
 <script>
@@ -37,4 +37,3 @@ var x = setInterval(function() {
   }
 }, 1000);
 </script>
-?>
