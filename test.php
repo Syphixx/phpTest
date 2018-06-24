@@ -3,11 +3,7 @@ echo "<h2>PHP is Fun!</h2>";
 echo "Hello world!<br>";
 echo "I'm about to learn PHP!<br>";
 echo "Nickyyyyy";
-echo "";
-echo "";
-echo "";
-echo "";
-
+echo "<br><br><br><br><br>";
 echo "class dismissed in: ";
 ?>
 <p id="demo" style="font-size:30;"></p>
