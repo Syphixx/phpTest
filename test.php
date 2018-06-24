@@ -5,7 +5,7 @@ echo "I'm about to learn PHP!<br>";
 echo "Nickyyyyy";
 
 ?>
-<p id="demo"></p>
+<p id="demo" style="font-size:22;"></p>
 
 <script>
 // Set the date we're counting down to
